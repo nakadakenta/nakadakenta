@@ -1,6 +1,6 @@
 <p align="left">
-  <a href="https://github.com/Hanakus0/Hanakus0/">
-    <img src="https://komarev.com/ghpvc/?username=Hanakus0" alt="Hanakus0" />
+  <a href="https://github.com/nakadakenta/nakadakenta/">
+    <img src="https://komarev.com/ghpvc/?username=nakadakenta" alt="nakadakenta" />
   </a>
   <a href="http://twitter.com/get_early_bird">
     <img height="20" src="https://img.shields.io/twitter/follow/get_early_bird?label=Twitter&logo=twitter&style=flat" />
@@ -20,21 +20,21 @@
 </p>
 
 <p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hanakus0&layout=compact" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=Hanakus0&theme=onedark&show_icons=ture" />
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nakadakenta&layout=compact" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=nakadakenta&theme=onedark&show_icons=ture" />
 </p>
 
 
-![Profile details card](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hanakus0&theme=gruvbox)
+![Profile details card](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nakadakenta&theme=gruvbox)
 
 <p align="left"> 
-  <img alt="Top Langs" height="150px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hanakus0&theme=radical" />
-  <img alt="Top Langs" height="150px" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Hanakus0&theme=transparent" />
+  <img alt="Top Langs" height="150px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nakadakenta&theme=radical" />
+  <img alt="Top Langs" height="150px" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nakadakenta&theme=transparent" />
 </p>
 
 <p align="left"> 
-  <img alt="Top Langs" height="150px" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Hanakus0&theme=github" />
-  <img alt="Top Langs" height="150px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hanakus0&theme=nord_dark" />
+  <img alt="Top Langs" height="150px" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nakadakenta&theme=github" />
+  <img alt="Top Langs" height="150px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nakadakenta&theme=nord_dark" />
 </p>
 
-![trophy](https://github-profile-trophy.vercel.app/?username=Hanakus0&theme=onedark)
+![trophy](https://github-profile-trophy.vercel.app/?username=nakadakenta&theme=onedark)
